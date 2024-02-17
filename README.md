@@ -1,1 +1,7 @@
-# TySpeedrunLauncher![Screenshot_5](https://github.com/Senashu/TySpeedrunLauncher/assets/118660067/9cb897de-171d-4a84-80a4-8d5479e6b350)
+# TySpeedrunLauncher!
+
+![Screenshot_11](https://github.com/Senashu/TySpeedrunLauncher/assets/118660067/e61d0a87-a5fa-4f61-bddf-158acc2c82ad)
+
+## Buttons
+
+Thanks to xMcacutt for the updated Buttons
