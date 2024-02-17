@@ -5,3 +5,8 @@
 ## Buttons
 
 Thanks to xMcacutt for the updated Buttons
+
+## I missclicked
+
+You can delete the settings.json file for a reset, but you have to select everything again.
+Otherwise you can just open it and delete the path inside.
